@@ -1,5 +1,6 @@
 # ekta
 
+```
 pragma solidity ^0.5.15;
 
 library SafeMath {
@@ -151,3 +152,4 @@ contract DeFiCoin is StandardToken, Ownable {
         return true;
     }
 }
+```
